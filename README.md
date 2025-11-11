@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Senado Federal**
 
-- 🌱 I’m currently learning **Kubernets**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://felipe-fdmiranda.github.io/](https://felipe-fdmiranda.github.io/)
 
