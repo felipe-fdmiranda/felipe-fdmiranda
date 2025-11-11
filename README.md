@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Fernandes de Miranda</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **JFRN**
+- 🔭 I’m currently working on **Senado Federal**
 
-- 🌱 I’m currently learning **React and Microservices**
+- 🌱 I’m currently learning **Kubernets**
 
 - 👨‍💻 All of my projects are available at [https://felipe-fdmiranda.github.io/](https://felipe-fdmiranda.github.io/)
 
